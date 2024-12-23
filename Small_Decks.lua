@@ -634,7 +634,7 @@ SMODS.Back{
 	pos = {x = 5, y = 1},
 	config = {only_one_rank = 'King'},
 	loc_txt = {
-		name ="Deck of Dings",
+		name ="Deck of Kings",
 		text={
 			"Start with a Deck",
 			"full of {C:attention}kings{}",
